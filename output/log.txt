@@ -1,0 +1,27 @@
+You say : testing this is my record
+Translate: pengujian ini adalah catatan saya
+
+You say : do you know any funny jokes
+Translate: apakah Anda tahu lelucon lucu
+
+You say : did you know funny jokes manchester united
+Translate: tahukah anda lelucon lucu manchester united
+
+You say : hello guys
+Translate: halo teman-teman
+
+You say : hello guys this is my program
+Translate: halo teman-teman, ini adalah program saya
+
+You say : this is my spiritual text program now i am going to bed
+Translate: ini adalah program teks rohani saya sekarang saya akan tidur
+
+You say : hello guys this is my program so this program will speak to text and then the text will translate with the bell ipa and then that will record and speaks with gtt
+Translate: halo teman-teman ini adalah program saya jadi program ini akan berbicara dengan teks dan kemudian teks akan diterjemahkan dengan lonceng ipa dan kemudian itu akan merekam dan berbicara dengan gtt
+
+You say : hello guys introduce my name is jeff now i am will show you this program this program is yes
+Translate: halo teman-teman perkenalkan nama saya jeff sekarang saya akan menunjukkan program ini program ini ya
+
+You say : hello hello guys my name is steve know i will show you this program python is broken by 10 will show you yes
+Translate: halo halo teman-teman nama saya steve tahu saya akan menunjukkan kepada Anda program python ini rusak oleh 10 akan menunjukkan kepada Anda ya
+
