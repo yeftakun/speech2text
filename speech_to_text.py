@@ -34,7 +34,7 @@ while True:
                     with open("./output/output.txt", "a") as file:
                         file.write(text + "\n")  # Append the recognized text to the file
                     with open("./output/log.txt", "a") as file:
-                        file.write("You say : " + text + "\n")
+                        file.write("You say  : " + text + "\n")
 
                 os.system('python translate.py')  # Run the translate.py script
                 os.system('python text_to_speech.py')
