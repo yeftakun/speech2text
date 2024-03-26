@@ -18,4 +18,4 @@ with open("./output/log.txt", "a") as file:
 with open("./output/translated.txt", "w") as file:
     file.write(translated_text)    # Write the translated text to the translated.txt file
     
-print("Translate " + translated_text)
+print("Translate: " + translated_text)

@@ -1,0 +1,12 @@
+You say  : federal credit union portal
+Translate: portal serikat kredit federal
+
+You say  : testing my phone
+Translate: menguji telepon saya
+
+You say  : 123 testing my car
+Translate: 123 menguji mobil saya
+
+You say  : 1:50
+Translate: 1:50
+

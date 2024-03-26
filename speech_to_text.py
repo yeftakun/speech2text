@@ -38,7 +38,8 @@ while True:
 
                 os.system('python translate.py')  # Run the translate.py script
                 os.system('python text_to_speech.py')
-            
+                os.system('python speech_to_text.py')  # Restart the script
+                break  # Exit the loop and start from line 10
     except speech_recognition.UnknownValueError:
         recognizer = speech_recognition.Recognizer()
         continue
